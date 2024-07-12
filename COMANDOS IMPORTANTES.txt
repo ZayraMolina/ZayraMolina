@@ -1,0 +1,10 @@
+git innit -> Inicia repositorio
+git add "Nombre del archivo" -> Agrega un archivo al repositorio
+git add . ->  Agrega todos los archivos al repositorio 
+git commit -m -> Crea un commit con el mensaje
+git clone ->  Clona un repositorio remoto
+git push -> Sube los commits al repositorio remoto
+git pull origin main -> Actualiza los cambios del remoto al local
+git log -> Muestra todos los commits y el historial del repositorio
+git status ->  Muestra el estado del directorio y archivos que aun no han sido agregados
+git checkout -b "Nombre" ->  Crea una rama nueva y la selecciona
