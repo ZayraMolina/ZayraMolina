@@ -9,3 +9,5 @@ git pull origin -> Actualiza los cambios del remoto al local de la rama en la qu
 git log -> Muestra todos los commits y el historial del repositorio
 git status ->  Muestra el estado del directorio y archivos que aun no han sido agregados
 git checkout -b "Nombre" ->  Crea una rama nueva y la selecciona
+git branch ->  Crea una rama nueva tambien
+git switch->  Cambia entre ramas 
