@@ -11,3 +11,4 @@ git status ->  Muestra el estado del directorio y archivos que aun no han sido a
 git checkout -b "Nombre" ->  Crea una rama nueva y la selecciona
 git branch ->  Crea una rama nueva tambien
 git switch->  Cambia entre ramas 
+git push origin "rama" -> Sube una rama y su contenido al repositorio remoto(push normal pero a una rama)
